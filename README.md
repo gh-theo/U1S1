@@ -4,7 +4,7 @@
 
 ![有一说一(U1S1)](https://i.eoht.net/airport/u1s1_logo.webp)
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/u1s1) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/u1s1) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 有一说一（U1S1）采用 **BGP 三网智能优化 + IEPL 专线出口**及 **SS 协议**，支持 **通用订阅**，不限制 IP 地址与连接设备数量。月付套餐从 **¥20、120GB/月**起；最低年付为 **¥96/年、60GB/月**，折合 **¥8/月**。新人可使用 **85 折优惠码 `U1S1`**，服务介绍还列有流媒体与 AI 工具解锁及个人、企业定制。
 
