@@ -106,4 +106,4 @@
 
 [查看有一说一套餐](https://eoht.net/serve/airport/u1s1)
 
-[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
+[机场优惠码汇总](https://github.com/jcsift/airport-coupons) · [机场卡片汇总](https://github.com/jcsift/airport-cards)
